@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lib</string>
+    <string name="app_open_fingerprint_pay">开通指纹验证</string>
+    <string name="app_auth_key_prepare_failed">auth key准备失败！查看logcat获取更多信息</string>
+    <string name="app_loading_preparing_open_keys">正在准备密钥</string>
+    <string name="app_use_fingerprint_pay">使用指纹验证</string>
+    <string name="app_verifying">正在认证</string>
+    <string name="input_pay_password">请输入验证密码</string>
+    <string name="app_confirm">确认</string>
+    <string name="app_request_challenge">正在请求挑战因子</string>
+    <string name="fingerprint_normal_hint">再试一次</string>
+    <string name="app_cancel">取消</string>
+</resources>
